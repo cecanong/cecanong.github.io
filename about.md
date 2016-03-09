@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-Some information about you!
+CECAN es la primera ONG constituida en la comuna de Taltal.
 
-### More Information
+### Misión
 
-A place to include any other types of information that you'd like to include about yourself.
+Isotipo se refiere a la parte, generalmente icónica o más reconocible, de la disposición espacial en diseño de una marca, ya sea corporativa, institucional o personal. Es el elemento constitutivo de un diseño de identidad, que connota la mayor jerarquía dentro de un proyecto y que a su vez delinea el mapa connotativo para el diseño del logotipo, así como la siguiente aplicación de diseño en las restantes etapas de un proyecto de identidad corporativa, como la aplicación en papelería, vehículos o merchandising. La palabra isotipo hace referencia a aquello que es "igual al tipo"
 
-### Contact me
+### Visión
 
-[email@domain.com](mailto:email@domain.com)
+Isotipo se refiere a la parte, generalmente icónica o más reconocible, de la disposición espacial en diseño de una marca, ya sea corporativa, institucional o personal. Es el elemento constitutivo de un diseño de identidad, que connota la mayor jerarquía dentro de un proyecto y que a su vez delinea el mapa connotativo para el diseño del logotipo, así como la siguiente aplicación de diseño en las restantes etapas de un proyecto de identidad corporativa, como la aplicación en papelería, vehículos o merchandising. La palabra isotipo hace referencia a aquello que es "igual al tipo"
+
+### Contacto
+
+cecan.ong@gmail.com
